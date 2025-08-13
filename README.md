@@ -1,9 +1,6 @@
 <h1 align="center">Hello 👋, I'm Zvi Abramovich</h1>
 <h3 align="center">I'm a DevOps Engineer. Welcome to my GitHub profile!</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=DevOps+Engineer+%7C+Cloud+Specialist;AWS+%26+GCP+Expert;Docker+%26+Kubernetes+Orchestration;CI%2FCD+Pipeline+Architect;Infrastructure+as+Code+Enthusiast;Python+%26+Bash+Automation" alt="Typing SVG" />
-</p>
 
 ## 🚀 About Me
 
